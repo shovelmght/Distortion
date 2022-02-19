@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Init.unity
+    guid: be7b332221de3934c8cadebaf031ae4c
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 09a93f71daeb6704a8b23725a0714bc8
+  - enabled: 1
+    path: Assets/Scenes/Miguel_Level.unity
+    guid: 3276513ea6d47c140a7c8e544335aca0
+  - enabled: 1
+    path: Assets/Scenes/Room2.unity
+    guid: 7a22569cab8aedc44966b182fad391b7
+  - enabled: 1
+    path: Assets/Scenes/Room3.unity
+    guid: a940e1e14bb91b34bb87047be90d380d
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 1bfea686004bb7a42b92db0eec1e9f5e
+  - enabled: 1
+    path: Assets/Scenes/Transittion.unity
+    guid: 25635cab5ff6ee343a03a43a2fb28e53
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: ef1cc72556e40ab4b8ca8f5ee3c4d888
+  - enabled: 1
+    path: Assets/Scenes/StartingCinematic.unity
+    guid: 41fac108962e9644892cfcf996f40393
+  - enabled: 1
+    path: Assets/Scenes/BadEnding.unity
+    guid: 5786c7b17e230384b82318908b2977dd
+  - enabled: 1
+    path: Assets/Scenes/GoodEnding.unity
+    guid: 91a5e80906f121144bbdcb1f87e247cf
+  - enabled: 0
+    path: Assets/Scenes/FinalLevel_Normal.unity
+    guid: a0c64a2fefc8a21478bf1cb7cbf8f85d
+  - enabled: 0
+    path: Assets/Scenes/Boss_Level.unity
+    guid: 761c4b65a632f524cba16997227aa636
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: fba1433396efa9240b108686fe83c4a5, type: 2}
